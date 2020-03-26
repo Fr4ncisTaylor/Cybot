@@ -20,6 +20,13 @@
 * * *
 ## How to use Cybot Framework
 
+* [Instagram](https://github.com/francis-taylor/Cybot/blob/master/example/Instagram.py)
+
+* []()
+
+* []()
+
+* []()
 
 * * * 
 * [Another examples](https://github.com/francis-taylor/Cybot/blob/master/exemplo/README.md)
