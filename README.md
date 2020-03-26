@@ -35,3 +35,4 @@
 ## Thanks
 
 * [WebWhatsApi](https://webwhatsapi.readthedocs.io/en/)
+* [Instagram-python-api](https://github.com/mgp25/Instagram-API)
