@@ -12,11 +12,13 @@
 
 ## first steps...
 
+### Pypi
 * Install Cybot: ```pip3 install Cybot```
 
 * Download ChromeDriver [HERE](https://chromedriver.chromium.org/downloadshttps://chromedriver.chromium.org/downloads).
  - Unzip ChromeDriver and copy your path.
- 
+----
+## Git clone
 * Clone the repository `git clone https://github.com/francis-taylor/Cybot`
 * Enter `cd Cybot`
 * Run `sudo -H pip3 install -r requirements.txt`
