@@ -5,6 +5,8 @@
                                   | |___  | | | |_) | |_| || |           VS. 0.0.1
                                    \____| |_| |____/ \___/ |_|           
 ```
+[![PyPI](https://img.shields.io/badge/python-3.6-blue.svg)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+
 * * *
 <p align="center"><strong>Framework to Whatsapp web, Instagram, Messenger and Telegram bot with use python 3.</strong></p>
 
