@@ -22,11 +22,11 @@
 
 * [Instagram](https://github.com/francis-taylor/Cybot/blob/master/example/Instagram.py)
 
-* []()
+* [Telegram](https://github.com/francis-taylor/Cybot/blob/master/example/Telegram.py)
 
-* []()
+* [Whatsapp](https://github.com/francis-taylor/Cybot/blob/master/example/whatsapp.py)
 
-* []()
+* [Messenger]()
 
 * * * 
 * [Another examples](https://github.com/francis-taylor/Cybot/blob/master/exemplo/README.md)
