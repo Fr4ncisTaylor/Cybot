@@ -6,7 +6,7 @@
                                    \____| |_| |____/ \___/ |_|           
 ```
 * * *
-<p align="center"><strong>Framework to Whatsapp web bot with use python 3.</strong></p>
+<p align="center"><strong>Framework to Whatsapp web, Instagram, Messenger and Telegram bot with use python 3.</strong></p>
 
 ## first steps...
 
