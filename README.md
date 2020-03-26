@@ -12,13 +12,15 @@
 
 ## first steps...
 
-* Install Selenium webdriver: ```pip install selenium```
-
 * Install Cybot: ```pip3 install Cybot```
 
 * Download ChromeDriver [HERE](https://chromedriver.chromium.org/downloadshttps://chromedriver.chromium.org/downloads).
  - Unzip ChromeDriver and copy your path.
  
+* Clone the repository `git clone https://github.com/francis-taylor/Cybot`
+* Enter `cd Cybot`
+* Run `sudo -H pip3 install -r requirements.txt`
+
 * * *
 ## How to use Cybot Framework
 
